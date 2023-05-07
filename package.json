@@ -27,7 +27,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.12.0",
     "angular-4-data-table": "^0.4.6",
     "angular-data-table": "^0.8.1",
-    "angular-datatables": "^8.0.0",
+    "angular-datatables": "^15.0.1",
     "angular5-data-table": "^1.0.3",
     "angular7-data-table": "^1.0.13",
     "angularfire2": "^4.0.0-rc.1",
@@ -45,7 +45,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.803.20",
-    "@angular/cli": "~8.3.20",
+    "@angular/cli": "~16.0.0",
     "@angular/compiler-cli": "~8.2.14",
     "@angular/language-service": "~8.2.14",
     "@fortawesome/fontawesome-free": "^5.12.0",
